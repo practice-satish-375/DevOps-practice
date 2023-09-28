@@ -77,12 +77,12 @@ This XML file does not appear to have any style information associated with it. 
 <repository>
 <id>nexus</id>
 <name>P2pro Technologies Releases Nexus Repository</name>
-<url>http://http://192.168.29.200:8080//repository/flipkart-release/</url>
+<url>http://192.168.29.200:8080//repository/flipkart-release/</url>
 </repository>
 <snapshotRepository>
 <id>nexus</id>
 <name>P2pro Technologies Snapshot Nexus Repository </name>
-<url>http://http://192.168.29.200:8080//repository/flipkart-snapshot/</url>
+<url>http://192.168.29.200:8080//repository/flipkart-snapshot/</url>
 </snapshotRepository>
 </distributionManagement>
 <build>
